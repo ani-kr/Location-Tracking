@@ -34,5 +34,7 @@ This application captures user details along with their exact geographical locat
 1. Install **XAMPP**
 2. Start **Apache** and **MySQL**
 
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/a3e825f5-ecec-485a-97ba-0e0f6a183a12" />
+
 <img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/305bbe68-bd4f-4965-858f-a9c449b4b06a" />
 
